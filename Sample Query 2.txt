@@ -1,0 +1,24 @@
+# To get the information about the cases.
+Cases of Rabindra of Balasore district
+Cases related to accused Hemanth
+Cases related to Niranjan Kar
+Cases of Jaladhara Pandit son of Padmalochan
+Cases related to Bike
+Cyber cases related to bank
+
+
+
+# To get the stats of the cases
+/stats hotspot district by murder crime category
+/stats hotspot district by NDPS crime category
+/stats hotspot district by burglary crime category
+/stats hotspot police stations by murder crime category
+/stats persons accused in more than 1 road accident cases
+/stats no of firs under investigation
+	
+/stats total no of cases
+
+# This Query is example for scenario in addition of more data into the database.
+cases related to sonali mishra
+
+
